@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WokeGameLibrary", "WokeGameLibrary.csproj", "{7C529874-D2CD-472C-9B90-1D786A15F65A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WokeGameLibrary", "WokeGameLibrary.csproj", "{7C529874-D2CD-472C-9B90-1D786A15F65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WokeGamesConsole", "..\WokeGamesConsole\WokeGamesConsole.csproj", "{EE62BD90-27FA-4916-9D6A-7152CE17FA78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WokeGamesConsole", "..\WokeGamesConsole\WokeGamesConsole.csproj", "{863C4A31-E37E-4236-981D-ABBFC5EAF664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7C529874-D2CD-472C-9B90-1D786A15F65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C529874-D2CD-472C-9B90-1D786A15F65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C529874-D2CD-472C-9B90-1D786A15F65A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE62BD90-27FA-4916-9D6A-7152CE17FA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE62BD90-27FA-4916-9D6A-7152CE17FA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE62BD90-27FA-4916-9D6A-7152CE17FA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE62BD90-27FA-4916-9D6A-7152CE17FA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863C4A31-E37E-4236-981D-ABBFC5EAF664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863C4A31-E37E-4236-981D-ABBFC5EAF664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863C4A31-E37E-4236-981D-ABBFC5EAF664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863C4A31-E37E-4236-981D-ABBFC5EAF664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
